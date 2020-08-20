@@ -6,7 +6,7 @@
  2. [Questions](#Questions)
  3. [Results](#Results)
  4. [File Descriptions](#file-descriptions)
- 5. Licensing, Authors, Acknowledgements
+ 5. [Licensing, Authors, Acknowledgements](#licensing-authors-acknowledgements)
 
 # Motivation:
 In the chemical industry, liquid mixtures are often separated into their components using a process called distillation and is carried out in tall cylindrical columns. The temperature falls as the mixture ascends inside the column and heavy (high boiling point) components condense out of the mixture. A light (low boiling point) product is produced at the top of the tower. The level of impurity in the top product is measured to determine whether the product meets specifications.
