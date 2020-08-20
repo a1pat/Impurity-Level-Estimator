@@ -2,11 +2,11 @@
  A model to estimate product impurity level using process operating variables.
  
  ## Table of Contents
- Motivation
- Questions
- Results
- File Descriptions
- Licensing, Authors, Acknowledgements
+ 1. Motivation
+ 2. Questions
+ 3. Results
+ 4. File Descriptions
+ 5. Licensing, Authors, Acknowledgements
 
 # Motivation:
 In the chemical industry, liquid mixtures are often separated into their components using a process called distillation and is carried out in tall cylindrical columns. The temperature falls as the mixture ascends inside the column and heavy (high boiling point) components condense out of the mixture. A light (low boiling point) product is produced at the top of the tower. The level of impurity in the top product is measured to determine whether the product meets specifications.
