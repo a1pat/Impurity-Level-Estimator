@@ -1,4 +1,4 @@
-# Impurity Level in Distillation
+# More On-spec Product
  A model to estimate product impurity level using process operating variables
 
 # Motivation:
