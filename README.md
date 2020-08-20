@@ -13,6 +13,11 @@ Distillation columns are often instrumented to measure flow rates and temperatur
 2.	Flow and temperature measurements are unavailable from time to time. Can the model be fit and used for prediction when data are missing?
 3.	How “good” is the model?
 
+# File Descriptions:
+There are two files in this repository associated with the above work:
+1. An Excel spreadsheet, "Distillation Data 2020-08-20 for Blog.xlsx" containing the data set used to build the model. Label variable is: 'Impurity'. Feature variables are: 'Reflux ratio', 'D/F', 'Pressure', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12', 'T13', 'T14', 'T15'.
+2. A Jupyter notebook, "Distillation.ipynb" that carries out the exploratory analysis and modeling.
+
 
 # Licensing, Authors, Acknowledgements
 1. The data set used to create the model was generated using an Excel model of a distillation column developed by A. A. Patwardhan.
