@@ -2,7 +2,7 @@
  A model to estimate product impurity level using process operating variables.
  
  ## Table of Contents
- 1. Motivation
+ 1. [Motivation](#Motivation)
  2. Questions
  3. Results
  4. File Descriptions
