@@ -34,4 +34,4 @@ No libraries are used beyond those in an Anaconda installation.
 # Licensing, Authors, Acknowledgements
 1. The data set used to create the model was generated using an Excel model of a distillation column developed by A. A. Patwardhan.
 2. The distillation column is as described in Example 8.11 in the textbook "Principles of Unit Operations", 2nd ed. by A. S. Foust, L. A. Wenzel, C. W. Clump, L Maus and L. B. Andersen. Publisher John Wiley & Sons, 1980.
-3. You may use the files provided above as you wish.
+3. You may use the two files provided above as you wish.
