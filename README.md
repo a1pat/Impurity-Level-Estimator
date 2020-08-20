@@ -1,4 +1,4 @@
-# More On-spec Product
+# Make More On-spec Product
  A model to estimate product impurity level using process operating variables
 
 # Motivation:
