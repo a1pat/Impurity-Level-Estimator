@@ -12,3 +12,8 @@ Distillation columns are often instrumented to measure flow rates and temperatur
 1.	Might it be possible to predict the impurity level based on measurements of other operating parameters of the distillation column?
 2.	Flow and temperature measurements are unavailable from time to time. Can the model be fit and used for prediction when data are missing?
 3.	How “good” is the model?
+
+
+# Licensing, Authors, Acknowledgements
+1. The data set used in the modeling was generated using an Excel model of a distillation column developed by A. A. Patwardhan.
+2. The distillation column is as described in Example 8.11 in the textbook "Principles of Unit Operations", 2nd ed. by A. S. Foust, L. A. Wenzel, C. W. Clump, L Maus and L. B. Andersen. Publisher John Wiley & Sons, 1980.
