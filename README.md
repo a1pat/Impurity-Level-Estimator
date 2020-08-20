@@ -5,7 +5,7 @@
  1. [Motivation](#Motivation)
  2. [Questions](#Questions)
  3. [Results](#Results)
- 4. [File Descriptions](#File Descriptions)
+ 4. [File Descriptions](#files)
  5. Licensing, Authors, Acknowledgements
 
 # Motivation:
@@ -23,6 +23,7 @@ Distillation columns are often instrumented to measure flow rates and temperatur
 # Results:
 The main findings of the analysis can be found here.
 
+#files
 # File Descriptions:
 There are two files in this repository associated with the above work:
 1. An Excel spreadsheet, "Distillation Data 2020-08-20 for Blog.xlsx" containing the data set used to build the model. Label variable is: 'Impurity'. Feature variables are: 'Reflux ratio', 'D/F', 'Pressure', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12', 'T13', 'T14', 'T15'.
