@@ -3,7 +3,7 @@
  
  ## Table of Contents
  1. [Motivation](#Motivation)
- 2. [Questions](#Question)
+ 2. [Questions](#Questions)
  3. [Results](#Results)
  4. File Descriptions
  5. Licensing, Authors, Acknowledgements
