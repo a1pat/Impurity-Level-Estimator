@@ -21,7 +21,16 @@ Distillation columns are often instrumented to measure flow rates and temperatur
 3.	Is the estimator good enough for deployment?
 
 # Results:
-The main findings of the analysis can be found here.
+The main findings of the analysis are:
+1. The impurity level has good correlations with other operating parameters, and it should be possible to predict the ipurity level using the other parameters;
+2. Missing values can be replaced using the mean for that column (measurement);
+3. The linear model does not have the accuracy required for deployment.
+
+Possible avenues for exploration (not part of this analysis:
+1. Try other methods of imputing missing values;
+2. Try using the log of the impurity;
+3. Use a more general nonlinear model such as a neural net;
+4. Ue the estimator developed here and offset it from time to time when an accurate impurity analysis is available.
 
 # File Descriptions:
 There are two files in this repository associated with the above work:
