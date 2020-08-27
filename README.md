@@ -17,8 +17,8 @@ Distillation columns are often instrumented to measure flow rates and temperatur
 
 # Questions:
 1.	Might it be possible to predict the impurity level based on measurements of other operating parameters of the distillation column?
-2.	Flow and temperature measurements are unavailable from time to time. Can the model be fit and used for prediction when data are missing?
-3.	How “good” is the model?
+2.	Flow and temperature measurements are unavailable from time to time. How can estimates be made when data are missing?
+3.	Is the estimator good enough for deployment?
 
 # Results:
 The main findings of the analysis can be found here.
