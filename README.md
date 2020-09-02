@@ -1,24 +1,24 @@
 README.md
 
 ## Table of Contents
-1. [Motivation](#Motivation)
-2. [Questions](#Questions)
-3. [Results](#Results)
+1. [Motivation](#motivation)
+2. [Questions](#questions)
+3. [Results](#results)
 4. [File Descriptions](#file-descriptions)
 5. [Libraries](#libraries)
 6. [Licensing, Authors, Acknowledgements](#licensing-authors-acknowledgements)
 
 # Motivation:
-In the chemical processing industry, liquid mixtures are often separated into their components using a process called distillation and is carried out in tall cylindrical columns. The temperature falls as the mixture ascends inside the column and heavy (high boiling point) components condense out of the mixture. A light (low boiling point) product is produced at the top of the tower. The level of impurity in the top product is measured to determine whether the product meets specifications.
+If you drive past a petrochemical plant, you will probably wonder what the tall shiny structures are. It is likely that they are distillation columns used to obtain purified liquids from mixtures. For example, distillation is used to produce alcoholic beverages, gasoline and distilled water.
+In the distillation, as with other processes, the goal is to produce a product that the customer wants — profitably. The customer requires that the concentration of impurity in the product be within a specified limit. If the impurity is outside the limit, the product must be thrown away or recycled. If the impurity is well within the limit, there is “give away” of quality and processing costs are higher than necessary. Thus, the ability to measure the impurity quickly is essential for meeting customer requirements at minimum cost.
 
-Measuring the impurity level can be time consuming resulting in production of off-spec product before a problem is detected. There is a need for a quick and reliable method to estimate the impurity level.
-
-Distillation columns are often instrumented to measure flow rates and temperatures at multiple locations. Flow and temperature measurements are usually fast. A model relating the impurity level to the temperature and flow measurements may provide an acceptable solution.
+Measuring the impurity level accurately using an instrument called an “analyzer” can be time consuming resulting in production of off-spec product before a problem is detected. There is a need for a quick and reliable method to estimate the impurity level.
+Distillation columns are often instrumented to measure other operating parameters — pressures, flow rates and temperatures at multiple locations. These measurements are almost instantaneous. A model relating the impurity level to the temperature and flow measurements may provide a fast and acceptable solution for quickly estimating the impurity level.
 
 # Questions:
-1.	Might it be possible to predict the impurity level based on measurements of other operating parameters of the distillation column?
-2.	Flow and temperature measurements are unavailable from time to time. Can the model be fit and used for prediction when data are missing?
-3.	How “good” is the model?
+1.	Distillation columns are often instrumented to measure other operating parameters — pressure, flow rates and temperatures at multiple locations. Might it be possible to estimate the impurity level based on other operating parameters?
+2.	Could the impurity level be estimated even if some of the other parameters are occasionally unavailable?
+3.	Will the impurity-estimation method be accurate enough for deployment?
 
 # Results:
 The main findings of the analysis can be found here.
